@@ -78,3 +78,7 @@ const connectDB = (url) => {
 
 module.exports = connectDB;
 ```
+
+8. Setup routes and controllers
+
+9. Setup Schemas in models folder
