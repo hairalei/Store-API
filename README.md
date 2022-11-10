@@ -82,3 +82,7 @@ module.exports = connectDB;
 8. Setup routes and controllers
 
 9. Setup Schemas in models folder
+
+10. Add logic in controllers
+
+11. Add additional features
